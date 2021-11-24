@@ -1,3 +1,3 @@
-link:https://arifin-dev.github.io/simple-portfolio/
+link:https://arifin-dev.github.io/my-portfolio/
 my-portfolio
 A simple portfolio
